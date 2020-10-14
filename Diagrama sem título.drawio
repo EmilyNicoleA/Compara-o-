@@ -1,1 +1,52 @@
-<mxfile host="app.diagrams.net" modified="2020-10-14T17:46:48.797Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_4) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Safari/605.1.15" version="13.8.0" etag="vvR6hYSBPXQdI5_R2mhU" type="github"><diagram id="eSWgl5fm6VqWb7-yRT-q">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-10-14T18:21:10.879Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_4) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Safari/605.1.15" etag="MoRxKy6Rc2PHqKDcJwel" version="13.8.0" type="github">
+  <diagram id="eSWgl5fm6VqWb7-yRT-q" name="Página-1">
+    <mxGraphModel dx="851" dy="527" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="6wXl4NRj1OaEJzUZebUB-26" value="&lt;font face=&quot;Times New Roman&quot;&gt;Senha&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="325" y="390" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6wXl4NRj1OaEJzUZebUB-4" value="&lt;font face=&quot;Times New Roman&quot;&gt;ID&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="10" y="240" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6wXl4NRj1OaEJzUZebUB-2" value="&lt;font face=&quot;Times New Roman&quot;&gt;Cliente&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="200" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6wXl4NRj1OaEJzUZebUB-5" value="&lt;font face=&quot;Times New Roman&quot;&gt;Nome&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="240" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6wXl4NRj1OaEJzUZebUB-6" value="&lt;font face=&quot;Times New Roman&quot;&gt;CPF&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="240" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6wXl4NRj1OaEJzUZebUB-12" value="&lt;font face=&quot;Times New Roman&quot;&gt;Pesquisa&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="170" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="6wXl4NRj1OaEJzUZebUB-16" value="&lt;font face=&quot;Times New Roman&quot;&gt;Produtos&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="200" width="79.17" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6wXl4NRj1OaEJzUZebUB-17" value="&lt;font face=&quot;Times New Roman&quot;&gt;Cadastro&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="279.17" y="240" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="6wXl4NRj1OaEJzUZebUB-18" value="&lt;font face=&quot;Times New Roman&quot;&gt;Administrador&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="340" width="79.17" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6wXl4NRj1OaEJzUZebUB-25" value="&lt;font face=&quot;Times New Roman&quot;&gt;ID&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;rotation=0;direction=north;" vertex="1" parent="1">
+          <mxGeometry x="269.17" y="387.72" width="20" height="22.34" as="geometry" />
+        </mxCell>
+        <mxCell id="6wXl4NRj1OaEJzUZebUB-27" value="&lt;font face=&quot;Times New Roman&quot;&gt;Categoria&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="279.17" y="90" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="6wXl4NRj1OaEJzUZebUB-28" value="&lt;font face=&quot;Times New Roman&quot;&gt;Cesta Básica&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="40" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6wXl4NRj1OaEJzUZebUB-29" value="&lt;font face=&quot;Times New Roman&quot;&gt;Localidade&amp;nbsp;&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="414" y="170" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="6wXl4NRj1OaEJzUZebUB-30" value="&lt;font face=&quot;Times New Roman&quot;&gt;Supermercado&amp;nbsp;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="200" width="80" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
